@@ -1,16 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# 
-
----
-
-# for my github give me the readme file code
-
-Here’s the full `README.md` file code that you can directly copy and paste into your GitHub repository:
-
----
-
-```markdown
 # **Booking Microservice**
 
 This is a FastAPI-based microservice for managing booking data. It supports creating, retrieving, and deleting bookings, with data stored in MongoDB.
